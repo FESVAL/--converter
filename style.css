@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(202, 233, 231);
+}
+h1 {
+    color: rgb(199, 53, 77);
+    font-size: 46px;
+    text-align:center;
+}
+.form{
+    left: 40px
+
+
+}
+
+#select-currency{
+    background-color: pink;
+    color: rgb(25, 50, 161);
+    font-size: 40;
+
+}
+#number{
+    color: rgb(8, 36, 112);
+    font-size: 50; 
+}
+#do_script{
+    color: rgb(175, 27, 101);
+    font-size: 30;
+}
+#summ_zl{
+    color: rgb(4, 85, 54);
+    font-size: 20;
+    height: 4;
+    width: 10;
+
+
+}

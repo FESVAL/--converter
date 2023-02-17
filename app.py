@@ -38,7 +38,7 @@ def click_calc():
         rate=dict_rates[ask]
         print(rate)
         summ_zl=float(rate*number)
-        print(summ_zl)
+        #print(summ_zl)
         return render_template ('index.html', summ_zl=summ_zl)
 
 click_calc()
